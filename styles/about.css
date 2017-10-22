@@ -1,0 +1,52 @@
+
+.rounded-circle.profile-pic {
+	width: 200px;
+	height: auto;
+	align-self: center;
+}
+
+p.subintro{
+	font-family: "Times New Roman", Times, serif; 
+	font-size:25px;
+	text-align: center;
+	width:100%;
+}
+
+.card{
+	font-family: "Times New Roman",Times, serif
+}
+
+.transparent-card{
+	background-color: transparent;
+}
+
+nav{
+	background-color: pink;
+}
+
+body{
+	background-color: mistyrose;
+}
+
+.card-text{
+	font-family:"Times New Roman", Times, serif; 
+
+}
+
+.card-title{
+	background-color: mistyrose
+
+}
+
+h4 {
+	background-color: mistyrose
+
+}
+.fixed {
+ left: 0;
+ top: 70px;
+}
+
+.padding{
+	/*padding-left: 30%*/
+}

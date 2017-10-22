@@ -1,0 +1,37 @@
+nav{
+	background-color: pink}
+
+.navbar-brand.ron-title {
+	color:brown;
+
+}
+
+.nav-item .nav-link.nav-menu-item{
+	color: brown
+}
+
+
+p.serif {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 50px;
+    text-align: center;
+    width: 100%;
+}
+p.subintro{
+	font-family: "Times New Roman", Times, serif; 
+	font-size:25px;
+	text-align: center;
+	width:100%;
+}
+
+
+.intro{ 
+	height:50vh;
+	background: url("../imgs/waterloo.jpg") no-repeat bottom center;
+	background-size: cover;
+ }
+
+
+body{
+	background-color: mistyrose
+}
